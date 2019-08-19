@@ -1,0 +1,2 @@
+# Galeria-Informatica
+imagenes
